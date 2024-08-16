@@ -1,0 +1,22 @@
+Summary of Analysis
+
+The analysis performed for the PyCitySchools datasets included examining several metrics across multiple schools in a district, which focused on academic performance in math and reading, budgetting, and over-all passing rates per school. 
+
+Overall school performances as well as individual school performances were analyzed, which showed differences in charter and district performance. Budget allocation was looked into too, which inferred that schools with lower per-student budgets have better overall academic performance. Grade-level, top performing schools, and low performing schools were also used for analysis to observe which specific schools were thriving and which were struggling, academically.
+
+
+
+Trends Observed
+
+1. Relationship of per student budget and academic performance 
+The data suggests that schools with lower per-student budgets, specifically less than $585 per student, typically have a higher average math and score score, and a higher overall-passing rate. Cabrera High School with a $585 per-student budget, has a average math and reading score of about 83% and 84%, and a passing rate of at least 94% for math and reading. 
+On the other hand, schools with a higher per-student budget, specifically in the $645-$680 range, tends to have lower average scores and passing percentages. Huang High School has a $655 per-student budget, a average math and reading score of about 77% and 81%, and an overall lower passing percentage in comparison to schools with lower per-student budgets. 
+
+This trend indicates that a school only increasing its per-student budget does not necessarily influence better academic performance.
+
+2. Academic performance of charter vs. district schools
+
+Charter schools typically surpass district schools with overall average scores and passing rates. The charter school, Griffin High School, has an average math and reading score of about 83% and 84%, and high passing percentages greater than 93% in both math and reading. 
+In comparison, district schools like Huang High School and Rodriguez High School have lower overall average scores and passing percentages. Rodriguez High has an average math and reading score of about 77% and 81%, with a passing math rate of 66%. 
+
+This trend suggests that charter schools have better academic performances than disctrict schools.
